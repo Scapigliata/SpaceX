@@ -1,6 +1,6 @@
 # SpaceX
 
-Build using [create-react-app](https://create-react-app.dev/docs/getting-started/) and [GraphQL](https://graphql.org/learn/)   
+Built using [create-react-app](https://create-react-app.dev/docs/getting-started/) and [GraphQL](https://graphql.org/learn/)   
 
 Based on a TraversyMedia Tutorial.
 
